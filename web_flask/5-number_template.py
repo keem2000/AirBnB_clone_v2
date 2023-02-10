@@ -46,7 +46,7 @@ def python_route(text="is_cool"):
     """
     , followed by the value of the text variable
         (replace underscore _ symbols with a space )
-        - The default value of text is 
+        - The default value of text is
     Returns:
         str: "Python <text>"
     """
